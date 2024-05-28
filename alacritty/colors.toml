@@ -1,0 +1,4 @@
+[colors.primary]
+background = "#232323"
+bright_foreground = "#C1E8FF"
+foreground = "#7DA0CA"
